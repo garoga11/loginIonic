@@ -25,3 +25,38 @@
 #container a {
   text-decoration: none;
 }
+
+.hola{
+  --background: none;
+  background-color: black;
+
+  background-image: url(../../assets/textura-piedra-marmol_125540-1376.jpg) !important;
+
+  background-position: center center;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+
+.title{
+  color: white;
+  font-size: 5rem !important;
+}
+
+.input{
+  border-radius: 25px !important;
+  border-color: black !important;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.login{
+  margin-top: 5%;
+  --background: none;
+  background-color: black;
+  width: 20%;
+  border-radius: 25px;
+  height: 70%;
+}

@@ -1,0 +1,43 @@
+.names{
+    text-align: center;
+}
+
+.profileImg{
+    margin-top: auto;
+   
+    height:120px;
+    width:120px;
+    border-radius: 50px;
+    background-image: url(https://images.pexels.com/photos/1771383/pexels-photo-1771383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+   
+    display:flex !important;
+    justify-content: center !important;
+}
+
+
+.background{
+    height: 50%;
+    width:100%;
+    border-radius: 50px;
+    background-image: url(https://images.pexels.com/photos/5044497/pexels-photo-5044497.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    margin-top: 2%;
+    display:flex;
+    justify-content: center;
+    
+}
+
+.toolbar{
+    --background: none;
+    background-color: black !important;
+    color: white;
+}
+
+.container{
+    padding: 70px;
+}
