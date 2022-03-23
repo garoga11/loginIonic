@@ -1,0 +1,14 @@
+.piechart {
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    background-image: conic-gradient(
+        #827f86  70deg, 
+        #000000 0 235deg, 
+        #50484e 0);
+}
+.toolbar{
+    --background: none;
+    background-color: black !important;
+    color: white;
+}
